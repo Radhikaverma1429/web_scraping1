@@ -1,0 +1,23 @@
+{
+    "movie_name": "Toy Story 4",
+    "rating": [
+        "G"
+    ],
+    "Genre": [
+        "Fantasy,",
+        "Kids",
+        "&",
+        "family,",
+        "Animation,",
+        "Adventure,",
+        "Comedy"
+    ],
+    "Languagre": [
+        "English"
+    ],
+    "Director": "Josh Cooley",
+    "Runtime": 100,
+    "Distributor": [
+        "Disney"
+    ]
+}
